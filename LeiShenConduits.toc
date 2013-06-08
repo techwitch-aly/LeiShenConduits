@@ -1,0 +1,10 @@
+## Interface: 50300
+## Title: Lei Shen Conduits
+## Author: Silberlicht
+## Version: 1.0
+## Notes: Tracks power levels on Lei Shen's Conduits
+## SavedVariables: LeiShenConduitsDB
+## OptionalDeps: Ace3
+
+
+Core.lua
